@@ -2,7 +2,9 @@
 
 Challenges based on [Coding Challenges](https://codingchallenges.fyi/challenges/intro)
 
-- [x] Build Your Own Compression Tool
+- [x] Build Your Own wc Tool
+- [ ] Build Your Own JSON Parser
+- [ ] Build Your Own Compression Tool
 - [ ] Build Your Own cut Tool
 - [ ] Build You Own Load Balancer
 - [ ] Build Your Own Sort Tool
