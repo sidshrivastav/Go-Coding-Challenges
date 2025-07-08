@@ -4,7 +4,7 @@ Challenges based on [Coding Challenges](https://codingchallenges.fyi/challenges/
 
 | Challenge | Language Used | Repo Link | Status |
 |-----------|---------------|-----------|--------|
-| Build Your Own wc Tool | Go | | ✅ |
+| Build Your Own wc Tool | | | |
 | Build Your Own JSON Parser | | | |
 | Build Your Own Compression Tool | Go | [go-compression-tool](https://github.com/sidshrivastav/go-compression-tool) | In Progress |
 | Build Your Own cut Tool | | | |
