@@ -6,7 +6,7 @@ Challenges based on [Coding Challenges](https://codingchallenges.fyi/challenges/
 |-----------|---------------|-----------|--------|
 | Build Your Own wc Tool | Go | | ✅ |
 | Build Your Own JSON Parser | | | |
-| Build Your Own Compression Tool | Go | (go-compression-tool)[https://github.com/sidshrivastav/go-compression-tool] | In Progress |
+| Build Your Own Compression Tool | Go | [go-compression-tool](https://github.com/sidshrivastav/go-compression-tool) | In Progress |
 | Build Your Own cut Tool | | | |
 | Build You Own Load Balancer | | | |
 | Build Your Own Sort Tool | | | |
